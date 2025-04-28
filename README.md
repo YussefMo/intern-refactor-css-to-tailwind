@@ -3,6 +3,7 @@
 ## Overview
 
 As part of my internship (Task 3), I refactored the project’s styling from traditional CSS to Tailwind CSS. This transition aimed to modernize the codebase, improve maintainability, and leverage Tailwind’s utility-first approach for faster UI development.
+[Live Demo](https://movie-app-refactor-to-tailwind.netlify.app/)
 
 ## Motivation
 
